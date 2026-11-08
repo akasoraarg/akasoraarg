@@ -1,31 +1,40 @@
-<p align="center">
-  <a href="https://github.com/akasoraarg">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=570&text=Hello!%20I'm%20Sora" alt="Hello! I&#39;m Sora" />
-  </a>
-</p>
+### `~ $ whoami`
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=835&height=44&lines=No%20se%20como%20funciona%20lo%20que%20hago%2C%20preguntenle%20a%20Claude;Segundo%20Francia" alt="Typing headlines" />
-</p>
+```text
+akasoraarg — open-source maintainer
+```
 
-###GitHub Stats
+### `~ $ ls projects --sort=stars`
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=akasoraarg&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=akasoraarg&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
+<table>
+<thead><tr><th align="left">Project</th><th align="left">About</th><th align="right">★</th></tr></thead>
+<tbody>
+<tr><td align="left"><a href="https://github.com/akasoraarg/akasoraarg">akasoraarg</a></td><td align="left">—</td><td align="right">0</td></tr>
+<tr><td align="left"><a href="https://github.com/akasoraarg/Ciphra">Ciphra</a></td><td align="left">—</td><td align="right">0</td></tr>
+<tr><td align="left"><a href="https://github.com/akasoraarg/Chori-Express-FULL-PROJECT">Chori-Express-FULL-PROJECT</a></td><td align="left">—</td><td align="right">0</td></tr>
+</tbody>
+</table>
 
-### Contribution Graph
+### `~ $ cat stack.txt`
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=akasoraarg&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
+```text
+html        ████████████████████  43%
+javascript  ██████████            22%
+python      ██████████            22%
+css         ██████                13%
+```
 
-### Dev Quote
+### `~ $ stats`
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
+```text
+repositories   3
+stars          0
+followers      0
+contributions  16 (last 12 months)
+```
 
----
-<p align="center"><i>⭐️ From <a href="https://github.com/akasoraarg">akasoraarg</a></i></p>
+### `~ $ contact`
+
+<a href="https://github.com/akasoraarg">GitHub</a>
+
+<sub>Plain Terminal · every line is real data · made with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
